@@ -1,0 +1,5 @@
+streamlit>=1.37
+openai>=1.30
+huggingface_hub>=0.24
+pypdf>=4.0
+python-docx>=1.1
